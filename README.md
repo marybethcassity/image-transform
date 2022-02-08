@@ -5,7 +5,7 @@ resize images while maintaining image center and aspect ratio, also transforms c
 make sure all requirements are installed
 
 ## Usage 
-update the original image path, the cropped image path, and the resized (final) image path 
+update the original image path, the cropped image path, and the resized (final) image path-- these folders should already be made
 
 update the coco annotation file path 
 
