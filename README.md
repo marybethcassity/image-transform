@@ -1,6 +1,9 @@
 # image-transform
 resize images while maintaining image center and aspect ratio, also transforms corresponding coco annotations
 
+## Installation
+make sure all requirements are installed
+
 ## Usage 
 update the original image path, the cropped image path, and the resized (final) image path 
 
