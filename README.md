@@ -7,7 +7,7 @@ make sure all requirements are installed
 ## Usage 
 update the original image path, the cropped image path, and the resized (final) image path
 
-update the coco annotation file path 
+update the coco annotations file path 
 
 update the transformed annotations file path in the variable result_file
 
