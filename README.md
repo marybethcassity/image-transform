@@ -2,7 +2,7 @@
 resize images while maintaining image center and aspect ratio, also transforms corresponding coco annotations
 
 ## Usage 
-update the original image path, the cropped image path, and the resized (final) image path
+update the original image path, the cropped image path, and the resized (final) image path. Alternatively, the code can be edited to crop the image after resizing without saving the image in between these steps.
 
 update the coco annotations file path 
 
